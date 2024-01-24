@@ -1,0 +1,13 @@
+Adjacency List:
+A: B 
+B: C 
+C: D E F 
+D: E F 
+E: G 
+F: H 
+G: H 
+H: I 
+Output of Q3:
+A, B, C, D, E, G, H, I
+Output of Q4:
+A, B, C, E, G, H, I
